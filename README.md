@@ -2,6 +2,9 @@
 
 This project implements a Rock-Paper-Scissors hand gesture prediction model using YOLO11. Trained with high accuracy (99%), this model can detect and classify hand gestures (Rock, Paper, Scissors) in real-time using a camera feed. 
 
+
+![image](output1.jpg)
+
 ## Project Overview
 
 The model is trained using the YOLO11 framework on a custom dataset of Rock-Paper-Scissors hand gestures. With real-time detection capabilities, this model can be used for live applications, enabling smooth gesture recognition.
